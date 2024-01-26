@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-22T00:31:21 EET" name="Default suite" finished-at="2024-01-22T00:31:43 EET" duration-ms="21895">
+    <groups>
+    </groups>
+    <test started-at="2024-01-22T00:31:21 EET" name="Default test" finished-at="2024-01-22T00:31:43 EET" duration-ms="21895">
+      <class name="AppiumApplicationTest">
+        <test-method is-config="true" signature="TheSetUp()[pri:0, instance:AppiumApplicationTest@53aac487]" started-at="2024-01-22T00:31:21 EET" name="TheSetUp" finished-at="2024-01-22T00:31:21 EET" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TheSetUp -->
+        <test-method signature="clickonevenNumbers()[pri:0, instance:AppiumApplicationTest@53aac487]" started-at="2024-01-22T00:31:21 EET" name="clickonevenNumbers" finished-at="2024-01-22T00:31:43 EET" duration-ms="21816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonevenNumbers -->
+        <test-method is-config="true" signature="MyPostTest()[pri:0, instance:AppiumApplicationTest@53aac487]" started-at="2024-01-22T00:31:43 EET" name="MyPostTest" finished-at="2024-01-22T00:31:43 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyPostTest -->
+      </class> <!-- AppiumApplicationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
